@@ -108,3 +108,4 @@ venv.bak/
 
 #
 constants.py
+logs/

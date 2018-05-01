@@ -8,3 +8,7 @@ def build_menu(buttons,
     if footer_buttons:
         menu.append(footer_buttons)
     return menu
+
+
+def reply_text_unregistered_user():
+    return "You are not registered at system! Try to write @maks_bond to get access."
